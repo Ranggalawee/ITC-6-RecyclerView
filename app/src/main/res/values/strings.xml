@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TugasRC</string>
+
+    <string-array name="social_media">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Youtube</item>
+        <item>Twitter</item>
+        <item>Whatsapp</item>
+        <item>LinkedIn</item>
+        <item>Pinterest</item>
+        <item>Skype</item>
+        <item>Spotify</item>
+        <item>Wordpress</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Ini Facebook</item>
+        <item>Ini Instagram</item>
+        <item>Ini Youtube</item>
+        <item>Ini Twitter</item>
+        <item>Ini Whatsapp</item>
+        <item>Ini LinkedIn</item>
+        <item>Ini Pinterest</item>
+        <item>Ini Skype</item>
+        <item>Ini Spotify</item>
+        <item>Ini Wordpress</item>
+    </string-array>
+
+</resources>
